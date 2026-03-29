@@ -1,2 +1,3 @@
 # donedone
-A minimalist task manager built with C#
+AFM 이슈 관리 프로그램
+
